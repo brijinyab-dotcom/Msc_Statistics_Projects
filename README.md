@@ -1,2 +1,2 @@
 # Msc_Statistics_Projects
-My Statistics,Data analytics and Machine learning Projects.
+A collection of my projects in Statistics, Data Analysis, Machine Learning, Python, R, and Data Visualization.
